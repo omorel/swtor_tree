@@ -1,0 +1,11 @@
+body {
+	background-color: #000000;
+}
+
+section.tree {
+	background-image: url('../images/tree-bg-plain.png');
+	width: 310px;
+	height: 490px;
+	float: left;
+	margin-left: 20px;
+}
